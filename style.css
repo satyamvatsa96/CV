@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: roboto;
+}
+.top-section{
+    width: 100%;
+    height: 100vh;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top-section h1{
+    color: white;
+    font-size: 63px;
+    border-bottom:1px solid #FFFFFF;
+    border-bottom-color:rgba(255,255,255,0.35);
+    padding-bottom:20px ;
+    
+}
+.top-section h4{
+    color: white;
+    font-size: 28px;
+    font-weight: 300;
+    padding-top:10px ;
+}
+.top-section div{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.second-section{
+    width: 100%;
+    height: 500px;
+}
